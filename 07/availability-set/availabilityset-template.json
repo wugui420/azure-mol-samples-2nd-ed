@@ -25,7 +25,7 @@
   },
   "variables": {
     "availabilitySetName": "azuremolavailabilityset",
-    "vmSize": "Standard_B1ms",
+    "vmSize": "Standard_D2s_v5",
     "vmName": "vm",
     "ubuntuOSVersion": "18.04-LTS",
     "location": "[resourceGroup().location]",
